@@ -1,0 +1,66 @@
+Course: Reinforcement Learning
+
+Semester: 7
+
+Credits: 4
+
+Description:
+This course introduces intelligent agents that learn optimal behaviour by interacting with an environment. Topics include Markov Decision Processes, Dynamic Programming, Monte Carlo methods, Temporal Difference Learning, Q-Learning, SARSA and Deep Reinforcement Learning.
+
+Applications:
+Autonomous Robots
+Game Playing
+Industrial Automation
+Self-driving Cars
+
+---------------------------------------------------------
+
+Course: Computer Vision
+
+Semester: 6
+
+Credits: 4
+
+Description:
+The course covers image processing, feature extraction, object detection, image classification, convolutional neural networks and visual perception for AI systems.
+
+Applications:
+Medical Imaging
+Autonomous Vehicles
+Surveillance
+Robotics
+
+---------------------------------------------------------
+
+Course: Deep Learning
+
+Semester: 6
+
+Credits: 4
+
+Description:
+Students learn neural networks, CNNs, RNNs, Transformers and Generative AI models using PyTorch.
+
+Applications:
+Natural Language Processing
+Computer Vision
+Speech Recognition
+Generative AI
+
+---------------------------------------------------------
+
+Course: AI for Space Agriculture
+
+Semester: 8
+
+Credits: 3
+
+Description:
+This elective introduces autonomous AI systems for extraterrestrial agriculture. Topics include lunar greenhouse automation, Martian soil analysis using AI, autonomous crop monitoring robots, and reinforcement learning for controlled-environment farming.
+
+Applications:
+Space Robotics
+Autonomous Agriculture
+Planetary Exploration
+
+---------------------------------------------------------
