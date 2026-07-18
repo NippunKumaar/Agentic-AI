@@ -153,7 +153,7 @@ class AcademicAdvisorRAG:
             IMPORTANT RULES:
             1. Treat the first retrieved document as the primary source of truth.
             2. Use information from other retrieved documents ONLY if the user explicitly asks for a comparison or if the first document does not contain the required information.
-            3. Do NOT use your own knowledge.
+            3. Do NOT use your own knowledge. if any other questions asked that is not related to curriculam, dont answer it using your knowledge, just say you are an academic advisor and question is out of scope. 
             4. Do NOT define concepts from memory.
             5. Do NOT add information that is not explicitly present in the retrieved curriculum.
             6. If the answer cannot be found in the retrieved curriculum, reply exactly:

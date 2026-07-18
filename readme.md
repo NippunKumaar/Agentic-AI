@@ -19,13 +19,3 @@ An Agentic AI project developed during the FDP on Agentic AI & LLM Engineering.
 - ChromaDB
 - Jupyter Notebook
 
-## Current Status
-
-- [x] LLM Fundamentals
-- [x] Tokenization
-- [x] Embeddings
-- [x] Basic RAG
-- [x] AcademicAdvisorRAG class
-- [ ] Semantic Retrieval API
-- [ ] Agent Workflow
-- [ ] Streamlit UI
